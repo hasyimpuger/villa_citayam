@@ -228,4 +228,9 @@ return [
 
     ],
 
+    'runtime' => [],
+    'list_accessible_menus' => [],
+    'list_user_groups' => [],
+    'user_id' => "",
+
 ];
